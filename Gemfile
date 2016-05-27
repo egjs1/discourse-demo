@@ -123,7 +123,6 @@ group :test, :development do
   gem 'rspec-html-matchers'
   gem 'pry-nav'
   gem 'spork-rails'
-  gem 'byebug', require: ENV['RM_INFO'].nil?
 end
 
 group :development do
