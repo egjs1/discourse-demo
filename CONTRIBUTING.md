@@ -4,8 +4,6 @@
 
 Anyone wishing to contribute to the [github.com/discourse/discourse](https://github.com/discourse/discourse) project **must read & sign our [Contributor License Agreement](http://www.discourse.org/cla)**. The Discourse team is legally prevented from accepting any pull requests from users who have not signed the CLA first.
 
-For more information on
-
 - how to set up your development environment
 - first-time project suggestions
 - code conventions
