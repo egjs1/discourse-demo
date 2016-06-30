@@ -8,14 +8,6 @@ env:
     - "RAILS_MASTER=0"
     - "RAILS_MASTER=1"
 
-addons:
-  postgresql: 9.3
-  apt:
-    packages:
-    - gifsicle
-    - jpegoptim
-    - optipng
-    - jhead
 
 matrix:
   allow_failures:
